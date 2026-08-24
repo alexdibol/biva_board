@@ -1,0 +1,31 @@
+{
+  "project": "We Are Not Building Tools Anymore",
+  "updated": "2026-08-23",
+  "pages": {
+    "narrative_companion": "https://alexdibol.github.io/biva_board/sources.html",
+    "biva_board_overview": "https://alexdibol.github.io/biva_board/"
+  },
+  "research_links": {
+    "cybersecurity": {
+      "title": "Cybersecurity in the Age of Agentic AI",
+      "url": "https://alexdibol.github.io/ai_cybersecurity/"
+    },
+    "autonomous_systems": {
+      "title": "Autonomous AI Systems",
+      "url": "https://alexdibol.github.io/ai_autonomous_systems/"
+    },
+    "institutional_knowledge": {
+      "title": "Second Brains and Knowledge Graphs",
+      "url": "https://alexdibol.github.io/ai_enhanced_intstitutional_ai/"
+    },
+    "ai_governance": {
+      "title": "AI Governance 2026",
+      "url": "https://alexdibol.github.io/ai_summer_2026/"
+    },
+    "board_perspective": {
+      "title": "Autonomous Agency and Institutional Cyber Risk",
+      "url": "https://alexdibol.github.io/biva_board/"
+    }
+  },
+  "repository": "https://github.com/alexdibol/biva_board"
+}
